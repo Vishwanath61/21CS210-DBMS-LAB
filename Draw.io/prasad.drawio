@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T13:39:30.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="VpZ6gfXnuLKM-d14IZwK" scale="1" border="0" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T13:40:57.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="fmq5IVvPa2oL0ojfohWJ" scale="1" border="0" version="23.0.2" type="github">
   <diagram name="Page-1" id="0QBZwQdaDu8JyAMSbpOg">
-    <mxGraphModel dx="1973" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1833" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,13 +163,13 @@
             <mxPoint x="440" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2yFKOZgI8dJwa0kllos-43" value="Name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="H2yFKOZgI8dJwa0kllos-43" value="name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H2yFKOZgI8dJwa0kllos-44" value="Budget" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="H2yFKOZgI8dJwa0kllos-44" value="budget" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H2yFKOZgI8dJwa0kllos-45" value="Location" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="H2yFKOZgI8dJwa0kllos-45" value="location" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2yFKOZgI8dJwa0kllos-46" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="H2yFKOZgI8dJwa0kllos-41" target="H2yFKOZgI8dJwa0kllos-43" edge="1">
@@ -208,7 +208,7 @@
             <mxPoint x="440" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2yFKOZgI8dJwa0kllos-56" value="Location" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="H2yFKOZgI8dJwa0kllos-56" value="location" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2yFKOZgI8dJwa0kllos-57" value="Name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -292,7 +292,7 @@
         <mxCell id="_IbDzBlGLKhWupRbvQgT-1" value="Birth date" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_IbDzBlGLKhWupRbvQgT-2" value="No of employees" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="_IbDzBlGLKhWupRbvQgT-2" value="no_of_employees" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="550" y="340" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
