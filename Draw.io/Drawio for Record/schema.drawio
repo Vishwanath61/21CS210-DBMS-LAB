@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T17:11:19.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Btc4INXfH_dXPxxxNS6S" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T18:27:03.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="2pjMmDJdXydH-DsC3oI8" version="23.1.5" type="github">
   <diagram name="Page-1" id="D-2gOVy6844muy7Wv8O4">
     <mxGraphModel dx="786" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="Ze1LnigZaSHVCxJpz0-y-31" value="Attachment" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="560" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Ze1LnigZaSHVCxJpz0-y-32" value="&lt;u&gt;message_id&lt;/u&gt;&lt;br&gt;document&lt;br&gt;videos&lt;br&gt;photos&lt;br&gt;contacts" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="Ze1LnigZaSHVCxJpz0-y-31" vertex="1">
+        <mxCell id="Ze1LnigZaSHVCxJpz0-y-32" value="&lt;u&gt;message_id&lt;/u&gt;&lt;br&gt;document&lt;br&gt;video&lt;br&gt;photo&lt;br&gt;contact" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="Ze1LnigZaSHVCxJpz0-y-31" vertex="1">
           <mxGeometry y="50" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ze1LnigZaSHVCxJpz0-y-40" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" source="Ze1LnigZaSHVCxJpz0-y-30" target="Ze1LnigZaSHVCxJpz0-y-25" edge="1">
