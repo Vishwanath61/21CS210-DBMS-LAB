@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-08-12T17:17:50.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.2.8" etag="mkGHtlrZIY36GV1tL8m0" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="8JsX9kJX0IKKpNKL3Epg">
-    <mxGraphModel>
+    <mxGraphModel dx="770" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JjX4tOd3_MNTxjReDuWn-1" value="Edit Bugs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JjX4tOd3_MNTxjReDuWn-2" value="Assign Tickets" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JjX4tOd3_MNTxjReDuWn-3" value="View Bugs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JjX4tOd3_MNTxjReDuWn-4" value="Add Bugs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JjX4tOd3_MNTxjReDuWn-5" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="JjX4tOd3_MNTxjReDuWn-4" target="JjX4tOd3_MNTxjReDuWn-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="480" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JjX4tOd3_MNTxjReDuWn-6" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="JjX4tOd3_MNTxjReDuWn-3" target="JjX4tOd3_MNTxjReDuWn-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="250" as="sourcePoint" />
+            <mxPoint x="490" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
